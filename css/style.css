@@ -1,0 +1,28 @@
+body {
+    background-repeat: no-repeat;
+      background-size:cover;
+      background-size: 100% 100%;
+      height: auto;
+      background-color:black;
+    }
+    
+    .jumbotron {
+     background-color: rgba(0, 0, 0, 0.2);
+    background-repeat: no-repeat;
+      background-size:cover;
+      background-size: 100% 100%;
+      color:white;
+    }
+    
+    h1 {
+      text-align:center;
+    }
+      
+      #btn {
+        margin:auto;
+        display:block;
+      }
+    
+    #forecast {
+      text-transform:capitalize;
+    }
